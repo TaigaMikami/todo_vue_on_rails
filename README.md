@@ -1,5 +1,8 @@
 # TODO vue on rails
 
+## View
+![TODO](https://user-images.githubusercontent.com/25325947/39584489-8c211a5e-4f2d-11e8-8964-5826d02056a8.png "todo")
+
 ## How to make environment
 
 
